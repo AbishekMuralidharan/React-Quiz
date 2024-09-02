@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+}
+body{
+  padding: 5px;
+}
+.question-card{
+  background-color: rgb(236, 226, 213);
+  padding: 5px;
+  width: 80%;
+  height: auto;
+  border-radius: 20px;
+  margin: auto;
+  color: rgb(0, 0, 0);
+}
+ul{
+  list-style: none;
+}
+li{
+  background-color: rgb(241, 220, 191);
+  padding: 10px;
+  border: 5px solid white;
+  border-radius: 25px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.question-text{
+  color: darkblue;
+  font-size: large;
+}
+.final-result{
+  background-color: rgb(236, 226, 213);
+  padding: 5px;
+  width: 50%;
+  height: auto;
+  border-radius: 20px;
+  margin: auto;
+  color: rgb(27, 26, 26);
+}
+button{
+  background-color: aliceblue;
+  border: 10px;
+  color: rgb(0, 0, 0);
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 15px;
+  border-bottom: 20px;
+  margin-right: 20px;
+}
+.button-next{
+  background-color: aliceblue;
+  border: 50px;
+  color: rgb(0, 0, 0);
+  padding: 15px 15px;
+  text-align: left;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 15px;
+  border-bottom: 20px; 
+}
+.button-reset{
+  background-color: aliceblue;
+  border: 50px;
+  color: rgb(0, 0, 0);
+  padding: 15px 15px;
+  text-align: left;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 15px;
+  border-bottom: 20px; 
+  margin-right: 20px;
+}
